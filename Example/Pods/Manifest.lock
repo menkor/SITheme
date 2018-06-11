@@ -1,0 +1,16 @@
+PODS:
+  - SITheme (0.1.0)
+
+DEPENDENCIES:
+  - SITheme (from `../`)
+
+EXTERNAL SOURCES:
+  SITheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SITheme: 7778e65c01fbc9552b87c937de7a48f136ae4360
+
+PODFILE CHECKSUM: 100b6e2863f5ff0cd36c52223a2aab803c6dd348
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module Pods_SITheme_Tests {
+  umbrella header "Pods-SITheme_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
