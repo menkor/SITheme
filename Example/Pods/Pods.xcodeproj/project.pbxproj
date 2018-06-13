@@ -46,7 +46,7 @@
 		16ECACCA694D42F7CDF8D7B810FD041A /* Pods-SITheme_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SITheme_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		1DAABCFF8529BCFA72423672260ACCBF /* Pods-SITheme_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SITheme_Example-umbrella.h"; sourceTree = "<group>"; };
 		1EF331984247D1189764DB83672210AA /* Pods-SITheme_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SITheme_Example.modulemap"; sourceTree = "<group>"; };
-		25FC90FD20EA114AC4136FA8B947BF76 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		25FC90FD20EA114AC4136FA8B947BF76 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		2A92D27FB5D35ECB275973A1BF5AEF98 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3591D28A59EA9755B25E08F9E396B03A /* Pods-SITheme_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SITheme_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3B6499C0D3FE7004924BBD6FF296F02A /* SIColor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SIColor.h; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		5B9D3772534EA5B8EDF5E4B0B88175C7 /* Pods-SITheme_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SITheme_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		69601699C60FB3977BAC6CC3A6A3813E /* SIFont.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SIFont.m; sourceTree = "<group>"; };
-		6AE51DB0B618683F8EFD9E25A6F34F9B /* Pods_SITheme_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SITheme_Example.framework; path = "Pods-SITheme_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6AE51DB0B618683F8EFD9E25A6F34F9B /* Pods_SITheme_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SITheme_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		78B3F7CA28F83F47BD7782D0E18FDD00 /* Pods-SITheme_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SITheme_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		7B598E1109B875125A3FA17A9B171FD1 /* Pods-SITheme_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SITheme_Tests-dummy.m"; sourceTree = "<group>"; };
 		7BA307E0BD2C8C9AE2CD30BC484F07C5 /* SITheme.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SITheme.xcconfig; sourceTree = "<group>"; };
@@ -64,10 +64,10 @@
 		814E97AB7FEB95B9CFC5161E68F7A84A /* Pods-SITheme_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SITheme_Example-resources.sh"; sourceTree = "<group>"; };
 		8263571497AA031A9AEB0528ED719F21 /* Pods-SITheme_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SITheme_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		84E1117A98D44B5013F85E0467A4ED96 /* Pods-SITheme_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SITheme_Tests-umbrella.h"; sourceTree = "<group>"; };
-		89DCA636075FB860A783821938696AAA /* SITheme.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = SITheme.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		89DCA636075FB860A783821938696AAA /* SITheme.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = SITheme.podspec; sourceTree = "<group>"; };
 		8EC07F9AF1A81EAA681B8D7C4A365B37 /* Pods-SITheme_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SITheme_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9DA82F6F599035CB75E62252C27E4558 /* SITheme.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SITheme.framework; path = SITheme.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9DA82F6F599035CB75E62252C27E4558 /* SITheme.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SITheme.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3E14B0A7184C8CEC804548E4E98A839 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B376992E3B8994F45C3C6D1D320DCCA7 /* SITheme-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SITheme-dummy.m"; sourceTree = "<group>"; };
 		BFC71F0114388E40D5BC2FF575B18CDF /* SIColor.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SIColor.m; sourceTree = "<group>"; };
@@ -75,10 +75,10 @@
 		CB4F667BDD30B108FA85E049823363FB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CFB640531E1C9F91D5ADE6D4E39BF586 /* Pods-SITheme_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SITheme_Tests-resources.sh"; sourceTree = "<group>"; };
 		D5934026E8D49BC57E9A30DF1B8F5CA3 /* Pods-SITheme_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SITheme_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		E1FB6D53BF0C05D4D8C11E36D4600E51 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		E1FB6D53BF0C05D4D8C11E36D4600E51 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EC64717999FB870C6260336D46A70903 /* SITheme.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SITheme.modulemap; sourceTree = "<group>"; };
 		F294B78126FC5EF7168208F0B2CBF3A3 /* Pods-SITheme_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SITheme_Example-frameworks.sh"; sourceTree = "<group>"; };
-		F3D96EF18DF3013DE64DA2CC76ACA42E /* Pods_SITheme_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SITheme_Tests.framework; path = "Pods-SITheme_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3D96EF18DF3013DE64DA2CC76ACA42E /* Pods_SITheme_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SITheme_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4F080776CCE86F2DB0EC407A2CEFB2D /* SIFontDef.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SIFontDef.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
