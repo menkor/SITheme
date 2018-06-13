@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SITheme'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'SITheme.'
 
 # This description is used to generate tags and improve search results.
@@ -40,7 +40,6 @@ SITheme of Super ID.
   #     ss.public_header_files = 'SITheme/Classes/XX/*.h'
   #   end
 
-  # s.dependency 'Masonry'
-  # s.dependency 'SIUtils'
+  s.dependency 'Masonry'
   
 end
