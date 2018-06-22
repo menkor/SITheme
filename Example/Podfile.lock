@@ -1,15 +1,22 @@
 PODS:
-  - SITheme (0.1.0)
+  - Masonry (1.1.0)
+  - SITheme (0.1.3):
+    - Masonry
 
 DEPENDENCIES:
   - SITheme (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
 
 EXTERNAL SOURCES:
   SITheme:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SITheme: 7778e65c01fbc9552b87c937de7a48f136ae4360
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SITheme: 990c82d696d5f72ccbd326185e1cf06a2e7c566d
 
 PODFILE CHECKSUM: 100b6e2863f5ff0cd36c52223a2aab803c6dd348
 
