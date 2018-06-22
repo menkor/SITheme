@@ -1,6 +1,0 @@
-framework module Pods_SITheme_Example {
-  umbrella header "Pods-SITheme_Example-umbrella.h"
-
-  export *
-  module * { export * }
-}
