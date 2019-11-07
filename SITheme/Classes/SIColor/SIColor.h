@@ -29,3 +29,17 @@
 + (UIColor *)colorWithHex:(unsigned long)hexValue alpha:(CGFloat)alpha;
 
 @end
+
+@interface SIColor (Theme)
+
+/*!
+ *  @brief 主题色 ->UIColor
+ */
+@property (class, nonatomic, readonly) UIColor *primaryColor;
+
+/*!
+ *  @brief 主题色调的16进制值[0x926DEA]
+ */
+@property (class, nonatomic, readonly) unsigned long primaryColorHex;
+
+@end

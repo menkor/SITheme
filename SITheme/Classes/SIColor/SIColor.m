@@ -67,3 +67,19 @@
 }
 
 @end
+
+@implementation SIColor (Theme)
+
++ (UIColor *)primaryColor {
+    return [SIColor colorWithHex:self.primaryColorHex];
+}
+
++ (unsigned long)primaryColorHex {
+    return 0x926DEA;
+}
+
++ (UIColor *)siRedColor {
+    return [SIColor colorWithHex:self.primaryColorHex];
+}
+
+@end
