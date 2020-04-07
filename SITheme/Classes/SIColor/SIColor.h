@@ -42,4 +42,6 @@
  */
 @property (class, nonatomic, readonly) unsigned long primaryColorHex;
 
+@property (class, nonatomic, readonly) UIColor *goldenColor;
+
 @end

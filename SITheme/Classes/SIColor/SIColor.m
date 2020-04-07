@@ -82,4 +82,8 @@
     return [SIColor colorWithHex:self.primaryColorHex];
 }
 
++ (UIColor *)goldenColor {
+    return [SIColor colorWithHex:0xA76F2F];
+}
+
 @end
