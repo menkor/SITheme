@@ -75,7 +75,7 @@
 }
 
 + (unsigned long)primaryColorHex {
-    return 0x926DEA;
+    return 0xD3A768;
 }
 
 + (UIColor *)siRedColor {

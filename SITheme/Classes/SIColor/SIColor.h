@@ -38,7 +38,7 @@
 @property (class, nonatomic, readonly) UIColor *primaryColor;
 
 /*!
- *  @brief 主题色调的16进制值[0x926DEA]
+ *  @brief 主题色调的16进制值[0xD3A768]
  */
 @property (class, nonatomic, readonly) unsigned long primaryColorHex;
 
